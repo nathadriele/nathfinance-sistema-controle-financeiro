@@ -148,7 +148,6 @@ class GerenciadorMetas:
     def adicionar_orcamento(self, orcamento: OrcamentoCategoria) -> bool:
         """Adiciona um orçamento para categoria"""
         try:
-            # Remove orçamento existente para a mesma categoria/mês/ano
             self.orcamentos = [o for o in self.orcamentos 
                              if not (o.categoria == orcamento.categoria and 
                                    o.mes == orcamento.mes and 
