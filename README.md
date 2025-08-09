@@ -89,3 +89,6 @@ Design moderno com cores modernas e layout responsivo.
 5. Abra um Pull Request
 6. E, seja feliz.
 
+### Última atualização
+
+Desenvolvido por: Nathalia Adriele. 09/08/2025
