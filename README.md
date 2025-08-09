@@ -65,10 +65,22 @@ Design moderno com cores modernas e layout responsivo.
 
 ## Formato dos Dados
 
-CSV com colunas: Data, Tipo, Categoria, Descrição, Valor (R$), Recorrente, Semana, Saldo Acumulado, % do Salário, Meta 50-30-20
+**CSV com colunas:**
+- Data
+- Tipo
+- Categoria
+- Descrição
+- Valor (R$)
+- Recorrente
+- Semana
+- Saldo Acumulado
+- % do Salário
+- Meta 50-30-20
 
 ## Contribuição
-Contribuições são bem-vindas!  
+
+**Contribuições são bem-vindas!**
+
 1. Faça um fork do repositório  
 2. Crie uma branch para sua funcionalidade (`git checkout -b feature/nova-funcionalidade`)  
 3. Commit suas alterações (`git commit -m 'Adiciona nova funcionalidade'`)  
