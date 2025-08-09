@@ -6,6 +6,14 @@ NathFinance é um sistema de controle financeiro pessoal desenvolvido em Dash/Pl
 
 <img width="1909" height="812" alt="image" src="https://github.com/user-attachments/assets/157205fa-00b7-46f1-85a4-faf9b63aa9e7" />
 
+## Requisitos Básicos
+
+```
+- Python 3.9
+- pip instalado
+- Navegador web moderno
+```
+
 ## Instalação
 
 1. Clone o repositório
