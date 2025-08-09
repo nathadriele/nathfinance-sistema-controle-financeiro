@@ -1,6 +1,6 @@
 # Nathfinance - Controle Financeiro Pessoal (Em Andamento | v.1)
 
-<img width="2689" height="741" alt="capa" src="https://github.com/user-attachments/assets/3083d6c4-43cf-49aa-9e07-3eaf914d5095" />
+<img width="1451" height="399" alt="capa" src="https://github.com/user-attachments/assets/e56926c1-631b-4ce8-88a9-40f37e747fcc" />
 
 NathFinance é um sistema de controle financeiro pessoal desenvolvido em Dash/Plotly, projetado para oferecer uma visualização clara e interativa das suas finanças, auxiliando no gerenciamento de gastos, metas e planejamento financeiro.
 
