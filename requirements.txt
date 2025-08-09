@@ -1,0 +1,7 @@
+dash>=2.14.0
+plotly>=5.15.0
+pandas>=1.5.0
+numpy>=1.21.0
+dash-bootstrap-components>=1.4.0
+python-dateutil>=2.8.0
+openpyxl>=3.0.0
